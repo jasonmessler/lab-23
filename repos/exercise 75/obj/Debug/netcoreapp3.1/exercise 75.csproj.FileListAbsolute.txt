@@ -1,0 +1,13 @@
+C:\Users\jason\source\repos\exercise 75\bin\Debug\netcoreapp3.1\exercise 75.exe
+C:\Users\jason\source\repos\exercise 75\bin\Debug\netcoreapp3.1\exercise 75.deps.json
+C:\Users\jason\source\repos\exercise 75\bin\Debug\netcoreapp3.1\exercise 75.runtimeconfig.json
+C:\Users\jason\source\repos\exercise 75\bin\Debug\netcoreapp3.1\exercise 75.runtimeconfig.dev.json
+C:\Users\jason\source\repos\exercise 75\bin\Debug\netcoreapp3.1\exercise 75.dll
+C:\Users\jason\source\repos\exercise 75\bin\Debug\netcoreapp3.1\exercise 75.pdb
+C:\Users\jason\source\repos\exercise 75\obj\Debug\netcoreapp3.1\exercise 75.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\exercise 75\obj\Debug\netcoreapp3.1\exercise 75.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\exercise 75\obj\Debug\netcoreapp3.1\exercise 75.AssemblyInfo.cs
+C:\Users\jason\source\repos\exercise 75\obj\Debug\netcoreapp3.1\exercise 75.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\exercise 75\obj\Debug\netcoreapp3.1\exercise 75.dll
+C:\Users\jason\source\repos\exercise 75\obj\Debug\netcoreapp3.1\exercise 75.pdb
+C:\Users\jason\source\repos\exercise 75\obj\Debug\netcoreapp3.1\exercise 75.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jason\source\repos\coin flip final\coin flip final\obj\Debug\netcoreapp3.1\coin flip final.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\coin flip final\coin flip final\obj\Debug\netcoreapp3.1\coin flip final.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\coin flip final\coin flip final\obj\Debug\netcoreapp3.1\coin flip final.AssemblyInfo.cs
+C:\Users\jason\source\repos\coin flip final\coin flip final\obj\Debug\netcoreapp3.1\coin flip final.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\coin flip final\coin flip final\bin\Debug\netcoreapp3.1\coin flip final.exe
+C:\Users\jason\source\repos\coin flip final\coin flip final\bin\Debug\netcoreapp3.1\coin flip final.deps.json
+C:\Users\jason\source\repos\coin flip final\coin flip final\bin\Debug\netcoreapp3.1\coin flip final.runtimeconfig.json
+C:\Users\jason\source\repos\coin flip final\coin flip final\bin\Debug\netcoreapp3.1\coin flip final.runtimeconfig.dev.json
+C:\Users\jason\source\repos\coin flip final\coin flip final\bin\Debug\netcoreapp3.1\coin flip final.dll
+C:\Users\jason\source\repos\coin flip final\coin flip final\bin\Debug\netcoreapp3.1\coin flip final.pdb
+C:\Users\jason\source\repos\coin flip final\coin flip final\obj\Debug\netcoreapp3.1\coin flip final.dll
+C:\Users\jason\source\repos\coin flip final\coin flip final\obj\Debug\netcoreapp3.1\coin flip final.pdb
+C:\Users\jason\source\repos\coin flip final\coin flip final\obj\Debug\netcoreapp3.1\coin flip final.genruntimeconfig.cache

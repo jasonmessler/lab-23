@@ -1,0 +1,13 @@
+C:\Users\jason\source\repos\exerecise 21\bin\Debug\netcoreapp3.1\exerecise 21.exe
+C:\Users\jason\source\repos\exerecise 21\bin\Debug\netcoreapp3.1\exerecise 21.deps.json
+C:\Users\jason\source\repos\exerecise 21\bin\Debug\netcoreapp3.1\exerecise 21.runtimeconfig.json
+C:\Users\jason\source\repos\exerecise 21\bin\Debug\netcoreapp3.1\exerecise 21.runtimeconfig.dev.json
+C:\Users\jason\source\repos\exerecise 21\bin\Debug\netcoreapp3.1\exerecise 21.dll
+C:\Users\jason\source\repos\exerecise 21\bin\Debug\netcoreapp3.1\exerecise 21.pdb
+C:\Users\jason\source\repos\exerecise 21\obj\Debug\netcoreapp3.1\exerecise 21.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\exerecise 21\obj\Debug\netcoreapp3.1\exerecise 21.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\exerecise 21\obj\Debug\netcoreapp3.1\exerecise 21.AssemblyInfo.cs
+C:\Users\jason\source\repos\exerecise 21\obj\Debug\netcoreapp3.1\exerecise 21.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\exerecise 21\obj\Debug\netcoreapp3.1\exerecise 21.dll
+C:\Users\jason\source\repos\exerecise 21\obj\Debug\netcoreapp3.1\exerecise 21.pdb
+C:\Users\jason\source\repos\exerecise 21\obj\Debug\netcoreapp3.1\exerecise 21.genruntimeconfig.cache

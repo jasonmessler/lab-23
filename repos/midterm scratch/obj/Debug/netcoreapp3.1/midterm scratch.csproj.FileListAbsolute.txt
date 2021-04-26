@@ -1,0 +1,13 @@
+C:\Users\jason\source\repos\midterm scratch\obj\Debug\netcoreapp3.1\midterm scratch.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\midterm scratch\obj\Debug\netcoreapp3.1\midterm scratch.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\midterm scratch\obj\Debug\netcoreapp3.1\midterm scratch.AssemblyInfo.cs
+C:\Users\jason\source\repos\midterm scratch\obj\Debug\netcoreapp3.1\midterm scratch.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\midterm scratch\bin\Debug\netcoreapp3.1\midterm scratch.exe
+C:\Users\jason\source\repos\midterm scratch\bin\Debug\netcoreapp3.1\midterm scratch.deps.json
+C:\Users\jason\source\repos\midterm scratch\bin\Debug\netcoreapp3.1\midterm scratch.runtimeconfig.json
+C:\Users\jason\source\repos\midterm scratch\bin\Debug\netcoreapp3.1\midterm scratch.runtimeconfig.dev.json
+C:\Users\jason\source\repos\midterm scratch\bin\Debug\netcoreapp3.1\midterm scratch.dll
+C:\Users\jason\source\repos\midterm scratch\bin\Debug\netcoreapp3.1\midterm scratch.pdb
+C:\Users\jason\source\repos\midterm scratch\obj\Debug\netcoreapp3.1\midterm scratch.dll
+C:\Users\jason\source\repos\midterm scratch\obj\Debug\netcoreapp3.1\midterm scratch.pdb
+C:\Users\jason\source\repos\midterm scratch\obj\Debug\netcoreapp3.1\midterm scratch.genruntimeconfig.cache

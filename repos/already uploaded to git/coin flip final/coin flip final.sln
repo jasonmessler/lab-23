@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coin flip final", "coin flip final\coin flip final.csproj", "{8549A057-15B8-45E8-836F-B0F6547F6032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8549A057-15B8-45E8-836F-B0F6547F6032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8549A057-15B8-45E8-836F-B0F6547F6032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8549A057-15B8-45E8-836F-B0F6547F6032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8549A057-15B8-45E8-836F-B0F6547F6032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F0456C-8004-4EA7-9D1C-B8E4756ED83A}
+	EndGlobalSection
+EndGlobal
